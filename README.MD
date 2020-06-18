@@ -1,1 +1,0 @@
-This is a dumb coffe project i made while learning on Jetbrains, i guess you can try it out
